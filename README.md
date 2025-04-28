@@ -2,7 +2,7 @@
 
 A clean and responsive BMI (Body Mass Index) calculator web app — built with **React 19** and **Tailwind CSS 4**.
 
-🌐 **Live Demo:** [https://bmi-calculator-eight-gray.vercel.app/](https://bmi-calculator-eight-gray.vercel.app/)
+🌐 **Live Demo:** [bmi-calculator-eight-gray.vercel.app](https://bmi-calculator-eight-gray.vercel.app/)
 
 ![Project Screenshot](https://github.com/user-attachments/assets/da9dab38-2224-452e-8482-4f6e9a1ee9c6)
 
