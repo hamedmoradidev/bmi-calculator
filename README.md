@@ -1,12 +1,82 @@
-# React + Vite
+# 🧮 BMI Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive BMI (Body Mass Index) calculator web app — built with **React 19** and **Tailwind CSS 4**.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** [bmi-calculator-eight-gray.vercel.app](https://bmi-calculator-eight-gray.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Project Screenshot](https://github.com/user-attachments/assets/da9dab38-2224-452e-8482-4f6e9a1ee9c6)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+- Calculate your BMI based on weight and height
+- Responsive design for all devices
+- Smooth animations with Motion
+- Clean and minimalistic UI
+
+---
+
+## 🛠️ Tech Stack
+- **React 19** (Frontend library)
+- **Vite 6** (Build tool)
+- **Tailwind CSS 4** (Utility-first CSS framework)
+- **Motion** (Animation library)
+
+---
+
+## 📦 Dependencies
+- **React**: Core framework
+- **Tailwind CSS**: For styling
+- **Motion**: For smooth UI animations
+- **Vite**: For fast development and build
+
+---
+
+## 📫 Contact  
+Developed by **Hamed Moradi**  
+- GitHub: [hamedmoradidev](https://github.com/hamedmoradidev)  
+- Instagram: [@hamed.moradi.dev](https://www.instagram.com/hamedmoradidev)  
+- LinkedIn: [Hamed Moradi](https://www.linkedin.com/in/hamedmoradidev)
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/hamedmoradidev/bmi-calculator.git
+cd bmi-calculator
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+The final build will be available in the `dist/` folder.
+
+---
+
+## 📋 Requirements
+- Node.js (>= 16)
+- npm (>= 8)
+
+---
+
+## 📝 License
+This project is licensed under the **MIT License**.
