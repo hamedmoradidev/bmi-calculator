@@ -1,6 +1,8 @@
 import React from 'react'
 import { useState } from 'react'
 import { motion } from "motion/react"
+import ContactMe from './ContactMe'
+
 export default function App() {
   const [height, setHeight] = useState("")
   const [weight, setWeight] = useState("")
@@ -25,6 +27,7 @@ export default function App() {
   }
   return (
     <div className='min-h-screen flex flex-wrap justify-center items-center text-white bg-black'>
+      <ContactMe />
 <div className='w-full max-w-md flex flex-wrap p-4 sm:p-6 md:p-10 *:my-6 '>
 <div className='flex w-full justify-center'>
         <motion.div
